@@ -1,0 +1,7 @@
+.draggable.dragging{
+    opacity: .5;
+}
+
+.img-map{
+    margin: 15px;
+}

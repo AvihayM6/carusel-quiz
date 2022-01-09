@@ -1,0 +1,7 @@
+.selfBtn2:disabled{
+    cursor: not-allowed;
+}
+
+.selfBtn2{
+    cursor: pointer;
+}

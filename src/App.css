@@ -1,0 +1,39 @@
+.app-container {
+    height: 100vh;
+    display: flex;
+    direction: rtl;
+    align-items: center;
+    justify-content: center;
+    background-color: #152238;
+}
+
+.block {
+    /* display: flex;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; */
+    background-color: #343434;
+    border-radius: 25px;
+    min-height: 400px;
+    width: 800px;
+    height: 600px;
+    /* padding: 50px; */
+    box-shadow: 0px 0px 30px 1px #000000;
+}
+
+.button {
+    padding: 10px 10px;
+    margin: 20px;
+    border-radius: 25px;
+    border-color: transparent;
+    background-color: white;
+}
+
+.input {
+    padding: 10px 10px;
+    margin: 20px;
+    border-radius: 25px;
+    border-color: transparent;
+    background-color: white;
+}

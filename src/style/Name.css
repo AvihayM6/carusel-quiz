@@ -1,0 +1,6 @@
+.custButton2:hover{
+  color: wheat;
+  background-color: #252d4a;
+  border: 1px solid #234668;
+  cursor: pointer;
+}
